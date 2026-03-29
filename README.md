@@ -42,7 +42,7 @@ I'm a passionate and motivated developer focused on building real-world web appl
 ### 🔹 Finance Dashboard
 
 📅 March 2026
-🔗 https://deeptibaghel04.github.io/finance-dashboard/
+🔗 [https://deeptibaghel04.github.io/finance-dashboard/](https://deeptibaghel-hub.github.io/finance-dashboard_1/)
 
 ✨ **Highlights:**
 
