@@ -1,105 +1,189 @@
 # Hi there 👋, I'm Deepti Baghel
 
-🚀 **Aspiring Web Developer | Problem Solver | Tech Enthusiast**
+<h3 align="center">🚀 Full Stack MERN Developer | AWS Cloud Enthusiast | Problem Solver</h3>
+
+<p align="center">
+Passionate Full Stack Developer focused on building scalable, responsive, and cloud-enabled web applications using the <strong>MERN Stack</strong> and <strong>AWS</strong>. I enjoy solving real-world problems, learning new technologies, and creating impactful digital experiences.
+</p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate and motivated developer focused on building real-world web applications. I enjoy solving problems, learning new technologies, and turning ideas into impactful projects.
+- 💻 Full Stack MERN Developer
+- ☁️ AWS Cloud Foundations Certified
+- 🚀 Passionate about Web Development & Cloud Computing
+- 🌱 Currently learning Advanced React, Node.js, Express.js & AWS
+- 🤝 Open to collaborating on Open Source & Full Stack Projects
+- 📚 Always exploring modern technologies and best practices
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 Currently Working On
 
-* 🔭 Building real-world web applications
-* 🌱 Learning Advanced JavaScript & Web Development
-* 👯 Open to collaborating on open-source projects
-* 🤔 Exploring scalable and production-level applications
-
----
-
-## 💡 Skills & Tools
-
-### 💻 Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-
-### 🛠️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visualstudiocode)
-![Chart.js](https://img.shields.io/badge/Chart.js-red?style=for-the-badge\&logo=chartdotjs)
+- 🔭 Building Full Stack MERN Applications
+- 🌱 Learning Advanced JavaScript & React Ecosystem
+- ⚡ Creating REST APIs with Node.js & Express.js
+- ☁️ Exploring AWS Cloud Services
+- 📦 Improving DSA & Problem Solving Skills
 
 ---
 
-## 📌 Featured Projects
+# 💻 Tech Stack
 
-### 🔹 Finance Dashboard
+### 🌐 Frontend
 
-📅 March 2026
-🔗 [https://deeptibaghel04.github.io/finance-dashboard/](https://deeptibaghel-hub.github.io/finance-dashboard_1/)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
-✨ **Highlights:**
+### ⚙️ Backend
 
-* Responsive dashboard using HTML5, CSS3, JavaScript (ES6), Chart.js
-* Local Storage integration for saving financial records
-* CSV export using Blob API
-* Interactive UI for tracking income & expenses
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
----
+### 🗄️ Database
 
-### 🔹 Serverless Financial Analytics & Budget Recommendation System
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
-🔗 https://financesaathiii.firebaseapp.com/login
+### ☁️ Cloud & Tools
 
-✨ **Highlights:**
-
-* Cloud-based analytics platform
-* Firebase Authentication & Firestore integration
-* Automated budget recommendations using Cloud Functions
-* Expense tracking, dashboards & insights
-
----
-
-## 📊 GitHub Stats
-
-![Deepti's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeptiBaghel-hub\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptiBaghel-hub\&layout=compact\&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🏆 Certifications
+# 🚀 Featured Projects
 
-* AWS Academy Cloud Foundations — Amazon Web Services
-* 🎖️ https://www.credly.com/badges/8e76b613-d226-45b6-a1ec-4790e49b3001/linked_in?t=tc8va3
+## 💰 Finance Dashboard
 
----
+🔗 **Live Demo**
 
-## 💬 Ask Me About
+https://deeptibaghel-hub.github.io/finance-dashboard_1/
 
-* Web Development (HTML, CSS, JavaScript)
-* Git & GitHub
-* Beginner-friendly coding guidance
+### Features
 
----
+- 📊 Interactive Dashboard
+- 📈 Expense & Income Tracking
+- 📉 Charts using Chart.js
+- 💾 Local Storage
+- 📤 CSV Export
+- 📱 Fully Responsive UI
 
-## 📫 Connect With Me
+**Tech Stack**
 
-* 📧 Email: [Sagar.deepti.baghel@gmail.com](mailto:Sagar.deepti.baghel@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/deepti-baghel-a37491327/
-
----
-
-## 😄 Fun Fact
-
-I love turning ideas into real-world projects and constantly pushing myself to learn something new 🚀
+`HTML` `CSS` `JavaScript` `Chart.js`
 
 ---
 
-⭐ **Thanks for visiting my profile! Let’s connect and build something amazing together.**
+## ☁️ Serverless Financial Analytics & Budget Recommendation System
+
+🔗 **Live Demo**
+
+https://financesaathiii.firebaseapp.com/login
+
+### Features
+
+- 🔐 Firebase Authentication
+- ☁️ Cloud Firestore
+- ⚡ Cloud Functions
+- 📊 Financial Analytics
+- 💰 Budget Recommendation
+- 📈 Expense Insights
+
+**Tech Stack**
+
+`Firebase` `JavaScript` `Firestore` `Cloud Functions`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeeptiBaghel-hub&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptiBaghel-hub&layout=compact&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DeeptiBaghel-hub&theme=radical"/>
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+### AWS Academy Cloud Foundations
+
+🎖️ AWS Cloud Foundations Certified
+
+https://www.credly.com/badges/8e76b613-d226-45b6-a1ec-4790e49b3001/linked_in?t=tc8va3
+
+---
+
+# 💬 Ask Me About
+
+- MERN Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript (ES6+)
+- REST APIs
+- Firebase
+- AWS
+- Git & GitHub
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+Sagar.deepti.baghel@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/deepti-baghel-a37491327/
+
+---
+
+# 🌐 Coding Profiles
+
+- 💻 GitHub: https://github.com/DeeptiBaghel-hub
+- 🏆 LeetCode: *(Add your profile link)*
+- ⚡ HackerRank: *(Add your profile link)*
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master MERN Stack Development
+- ✅ Learn Advanced AWS Services
+- ✅ Build Scalable Production-Level Applications
+- ✅ Contribute to Open Source
+- ✅ Secure a Full Stack Developer Role
+
+---
+
+# ⚡ Fun Fact
+
+> "I love turning ideas into real-world applications and continuously learning new technologies."
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+Let's connect, collaborate, and build something amazing together 🚀
+</p>
