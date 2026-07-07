@@ -159,8 +159,8 @@ https://www.linkedin.com/in/deepti-baghel-a37491327/
 # 🌐 Coding Profiles
 
 - 💻 GitHub: https://github.com/DeeptiBaghel-hub
-- 🏆 LeetCode: *(Add your profile link)*
-- ⚡ HackerRank: *(Add your profile link)*
+- 🏆 LeetCode: *https://leetcode.com/u/D_deepti/*
+- ⚡ HackerRank: *https://www.hackerrank.com/profile/sagar_deepti_ba1*
 
 ---
 
