@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Deepti Baghel
+# Hey there 👋, I'm Deepti Baghel
 
 <h3 align="center">🚀 Full Stack MERN Developer | AWS Cloud Enthusiast | Problem Solver</h3>
 
