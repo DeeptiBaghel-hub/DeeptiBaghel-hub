@@ -105,9 +105,6 @@ https://financesaathiii.firebaseapp.com/login
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeeptiBaghel-hub&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptiBaghel-hub&layout=compact&theme=radical"/>
 
 </p>
 
