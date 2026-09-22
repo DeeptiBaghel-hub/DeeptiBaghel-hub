@@ -10,22 +10,22 @@ Passionate Full Stack Developer focused on building scalable, responsive, and cl
 
 ## 🌟 About Me
 
-- 💻 Full Stack MERN Developer
-- ☁️ AWS Cloud Foundations Certified
-- 🚀 Passionate about Web Development & Cloud Computing
-- 🌱 Currently learning Advanced React, Node.js, Express.js & AWS
-- 🤝 Open to collaborating on Open Source & Full Stack Projects
-- 📚 Always exploring modern technologies and best practices
+* 💻 Full Stack MERN Developer
+* ☁️ AWS Cloud Foundations Certified
+* 🚀 Passionate about Web Development & Cloud Computing
+* 🌱 Currently learning Advanced React, Node.js, Express.js & AWS
+* 🤝 Open to collaborating on Open Source & Full Stack Projects
+* 📚 Always exploring modern technologies and best practices
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🔭 Building Full Stack MERN Applications
-- 🌱 Learning Advanced JavaScript & React Ecosystem
-- ⚡ Creating REST APIs with Node.js & Express.js
-- ☁️ Exploring AWS Cloud Services
-- 📦 Improving DSA & Problem Solving Skills
+* 🔭 Building Full Stack MERN Applications
+* 🌱 Learning Advanced JavaScript & React Ecosystem
+* ⚡ Creating REST APIs with Node.js & Express.js
+* ☁️ Exploring AWS Cloud Services
+* 📦 Improving DSA & Problem Solving Skills
 
 ---
 
@@ -59,45 +59,25 @@ Passionate Full Stack Developer focused on building scalable, responsive, and cl
 
 # 🚀 Featured Projects
 
-## 💰 Finance Dashboard
+## 💼 Job Portal
 
 🔗 **Live Demo**
 
-https://deeptibaghel-hub.github.io/finance-dashboard_1/
+https://job-portal-main-mocha.vercel.app/
 
 ### Features
 
-- 📊 Interactive Dashboard
-- 📈 Expense & Income Tracking
-- 📉 Charts using Chart.js
-- 💾 Local Storage
-- 📤 CSV Export
-- 📱 Fully Responsive UI
+* 🔐 JWT-based Authentication
+* 👨‍💼 Student/Job Seeker & Recruiter Roles
+* 🏢 Company Registration & Job Posting
+* 🔎 Job Search & Filtering
+* 📝 Job Applications & Status Tracking
+* 👥 Recruiter Applicant Management
+* 📄 Resume & Profile Photo Uploads
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `Chart.js`
-
----
-
-## ☁️ Serverless Financial Analytics & Budget Recommendation System
-
-🔗 **Live Demo**
-
-https://financesaathiii.firebaseapp.com/login
-
-### Features
-
-- 🔐 Firebase Authentication
-- ☁️ Cloud Firestore
-- ⚡ Cloud Functions
-- 📊 Financial Analytics
-- 💰 Budget Recommendation
-- 📈 Expense Insights
-
-**Tech Stack**
-
-`Firebase` `JavaScript` `Firestore` `Cloud Functions`
+`React` `Vite` `Tailwind CSS` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 
 ---
 
@@ -131,16 +111,16 @@ https://www.credly.com/badges/8e76b613-d226-45b6-a1ec-4790e49b3001/linked_in?t=t
 
 # 💬 Ask Me About
 
-- MERN Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript (ES6+)
-- REST APIs
-- Firebase
-- AWS
-- Git & GitHub
+* MERN Stack
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* JavaScript (ES6+)
+* REST APIs
+* Firebase
+* AWS
+* Git & GitHub
 
 ---
 
@@ -148,7 +128,7 @@ https://www.credly.com/badges/8e76b613-d226-45b6-a1ec-4790e49b3001/linked_in?t=t
 
 📧 **Email**
 
-Sagar.deepti.baghel@gmail.com
+[Sagar.deepti.baghel@gmail.com](mailto:Sagar.deepti.baghel@gmail.com)
 
 💼 **LinkedIn**
 
@@ -158,19 +138,19 @@ https://www.linkedin.com/in/deepti-baghel-a37491327/
 
 # 🌐 Coding Profiles
 
-- 💻 GitHub: https://github.com/DeeptiBaghel-hub
-- 🏆 LeetCode: *https://leetcode.com/u/D_deepti/*
-- ⚡ HackerRank: *https://www.hackerrank.com/profile/sagar_deepti_ba1*
+* 💻 GitHub: https://github.com/DeeptiBaghel-hub
+* 🏆 LeetCode: *https://leetcode.com/u/D_deepti/*
+* ⚡ HackerRank: *https://www.hackerrank.com/profile/sagar_deepti_ba1*
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Master MERN Stack Development
-- ✅ Learn Advanced AWS Services
-- ✅ Build Scalable Production-Level Applications
-- ✅ Contribute to Open Source
-- ✅ Secure a Full Stack Developer Role
+* ✅ Master MERN Stack Development
+* ✅ Learn Advanced AWS Services
+* ✅ Build Scalable Production-Level Applications
+* ✅ Contribute to Open Source
+* ✅ Secure a Full Stack Developer Role
 
 ---
 
