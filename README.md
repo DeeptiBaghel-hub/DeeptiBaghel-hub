@@ -36,27 +36,38 @@
 
 ---
 
-## Tech Stack
+
+## 💻 Tech Stack
 
 **Frontend**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,vite,tailwind](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,vite,tailwind)" alt="Frontend Skills" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,vite,tailwind" alt="Frontend Skills" />
+</p>
 
 **Backend**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" alt="Backend Skills" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
+</p>
 
 **Databases**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)" alt="Databases" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases" />
+</p>
 
 **Cloud & DevOps**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=aws,oracle,docker,kubernetes,jenkins,githubactions,terraform,git](https://skillicons.dev/icons?i=aws,oracle,docker,kubernetes,jenkins,githubactions,terraform,git)" alt="Cloud and DevOps Skills" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,oracle,docker,kubernetes,jenkins,githubactions,terraform,git" alt="Cloud and DevOps Skills" />
+</p>
 
-**Tools**
+**Developer Tools**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=vscode,postman,github](https://skillicons.dev/icons?i=vscode,postman,github)" alt="Developer Tools" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github" alt="Developer Tools" />
+</p>
 
 **Other Technologies**
 
