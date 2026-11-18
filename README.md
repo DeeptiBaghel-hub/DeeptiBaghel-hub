@@ -158,7 +158,7 @@ A real-time observability and SRE platform for monitoring system health, detecti
 
 🔗 **Live Demo:** https://job-portal-main-mocha.vercel.app/
 
-🔗 **Source Code:** https://github.com/DeeptiBaghel-hub/job-portal-main
+🔗 **Source Code:** [https://github.com/DeeptiBaghel-hub/job-portal-main](https://github.com/DeeptiBaghel-hub/CareerNest)
 
 A full-stack job portal connecting job seekers and recruiters through a modern web application.
 
