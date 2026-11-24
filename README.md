@@ -193,4 +193,4 @@ A job portal where recruiters can post jobs and manage applications, while candi
 - 📧 Email: [deepti.gla_cs24@gla.ac.in](mailto\:deepti.gla_cs24@gla.ac.in)
 - 💼 LinkedIn: [Deepti Baghel](https://www.linkedin.com/in/deepti-baghel-a37491327/)
 
-\<p align="center">   Thanks for stopping by! Feel free to explore my repositories. 😊 \</p>
+<p align="center">   Thanks for stopping by! Feel free to explore my repositories. </p>
