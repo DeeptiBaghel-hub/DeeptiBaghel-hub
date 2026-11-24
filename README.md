@@ -1,8 +1,8 @@
-# Hey, I'm Deepti Baghel 👋
+# Hey, I'm Deepti Baghel 
 
-\<h3 align="center">Full Stack Developer | MERN Stack | Cloud & DevOps\</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Cloud & DevOps\</h3>
 
-\<p align="center">   I'm a B.Tech CSE student at GLA University who enjoys building web applications, exploring new technologies, and solving problems through code.   \<br/>   Currently interested in Full Stack Development, Cloud Computing, DevOps, and AI. \</p>
+<p align="center">   I'm a B.Tech CSE student at GLA University who enjoys building web applications, exploring new technologies, and solving problems through code.   \<br/>   Currently interested in Full Stack Development, Cloud Computing, DevOps, and AI. \</p>
 
 ---
 
